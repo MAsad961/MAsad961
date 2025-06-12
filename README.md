@@ -1,44 +1,39 @@
 ## Hi there 👋🏻	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&duration=2000&pause=1000&color=36F781&width=444&lines=Waleed+Ahmad;Sr.+Full+Stack+Engineer)](https://git.io/typing-svg)
-# 💻 Waleed Ahmad  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&duration=2000&pause=1000&color=36F781&width=444&lines=Muhammad+Asad;Sr.+Full+Stack+Engineer)](https://git.io/typing-svg)
+# 💻 Muhammad Asad  
 
-**🌟 Senior Fullstack Engineer**  
-**🏢 AB {ARK} Private Limited**  
-**🌐 MERN | Python | Generative AI | DevOps**  
+**🌟 Senior Full Stack Engineer**  
+**🏢 AB {Ark} Private Limited**  
+**🌐 MERN | Python | DevOps**  
 
 ---
 
 ## 🚀 About Me  
 
-Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 4+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, **Generative AI**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
+Hello! I'm **Muhammad Asad**, a passionate **Sr. Fullstack Engineer** with 4+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
 
 ---
 
 ## 🛠️ Skills & Expertise  
 
 ### 💻 **Fullstack Development**  
-- **Frontend:** React.js, Material-UI, Next.js, TailwindCSS
-- **Backend:** Node.js, Express.js, NestJS, RxJS, Laravel, FastAPI
-
-### 📊 **Generative AI**  
-- OpenAI APIs, LangChain, Hugging Face Transformers  
-- Building AI-powered applications  
+- **Frontend:** React.js, Material-UI, TailwindCSS
+- **Backend:** Node.js, Express.js, Laravel, FastAPI
 
 ### ⚙️ **DevOps**  
-- Docker, CI/CD Pipelines (GitHub Actions, Jenkins)  
-- Cloud Platforms: AWS, GCP, Azure  
+- CI/CD Pipelines (GitHub Actions)  
+- Cloud Platforms: AWS, Azure  
 
 ### 🔧 **Other Tools & Technologies**  
 - Database Management: MongoDB, PostgreSQL  
-- Version Control: Git, GitHub, GitLab  
-- Testing: Jest, Mocha, Cypress  
+- Version Control: Git, GitHub, GitLab
 
 ---
 
-## 🏆 Achievements  
-- Successfully led multiple fullstack projects from ideation to deployment.  
-- Designed and implemented scalable backend solutions handling millions of requests.  
-- Developed AI-powered tools that enhanced efficiency and user engagement.  
+## 🏆 Achievements
+- Led end-to-end development of MERN stack applications from concept to production, ensuring responsive UI and backend performance.
+- Built and deployed scalable RESTful and GraphQL APIs using Node.js and Express, capable of handling millions of requests efficiently.
+- Implemented real-time features using WebSockets and MongoDB Change Streams, enhancing interactivity and user experience.
 
 ---
 
@@ -50,20 +45,5 @@ Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 4+ 
 
 ## 📫 Let's Connect  
 
-- **GitHub:** [github.com/waleedahmad-dev](#)  
-- **Email:** [name1swaleed@gmail.com](#)  
-
----
-
-**"Innovating one line of code at a time."** ✨
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=waleedahmad-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=waleedahmad-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedahmad-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=waleedahmad-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **GitHub:** [github.com/MAsad961](#)  
+- **Email:** [asad.ctn1@gmail.com](#)  
