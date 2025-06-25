@@ -1,64 +1,90 @@
-## Hi there 👋🏻	
+## Hi there 👋🏻  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&duration=2000&pause=1000&color=36F781&width=444&lines=Muhammad+Asad;Sr.+Full+Stack+Engineer)](https://git.io/typing-svg)
+
+### 👨‍💻 A tech-savvy builder of scalable web apps & automation pipelines.
+
+---
+
 # 💻 Muhammad Asad  
 
 **🌟 Senior Full Stack Engineer**  
 **🏢 AB {Ark} Private Limited**  
-**🌐 MERN | Python | DevOps**  
+**🌐 MERN | Python | DevOps**
 
 ---
 
 ## 🚀 About Me  
 
-Hello! I'm **Muhammad Asad**, a passionate **Sr. Full Stack Engineer** with 4+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
+I'm **Muhammad Asad**, a passionate **Senior Full Stack Engineer** with over **4 years** of hands-on experience in crafting scalable web applications and automation workflows.  
+My toolbox includes the **MERN Stack**, **Python**, and strong **DevOps practices**. I specialize in delivering robust APIs, intuitive UIs, and seamless CI/CD pipelines.
+
+💡 I enjoy solving tough problems, leading development cycles, and mentoring new developers.
+
+- 🎯 *Currently worked on:* Jitsi Meet Conference Tool Clone  
+- 🧠 *Learning:* Rust, Distributed Systems  
+- 💬 *Ask me about:* Web app architecture, backend scaling, GitOps
 
 ---
 
-## 🛠️ Skills & Expertise  
+## 🛠️ Tech Stack
 
-### 💻 **Fullstack Development**  
-- **Frontend:** React.js, Material-UI, TailwindCSS
-- **Backend:** Node.js, Express.js, Laravel, FastAPI
+### 🌐 Web Technologies  
+- React.js, Next.js, Tailwind CSS, Material-UI  
+- Node.js, Express.js, REST & GraphQL APIs
 
-### ⚙️ **DevOps**  
-- CI/CD Pipelines (GitHub Actions)  
-- Cloud Platforms: AWS, Azure  
+### 🐍 Backend & Scripting  
+- Python, FastAPI, Laravel  
+- Real-time systems (WebSockets, Change Streams)
 
-### 🔧 **Other Tools & Technologies**  
-- Database Management: MongoDB, PostgreSQL  
-- Version Control: Git, GitHub, GitLab
+### 🗄️ Databases & Cloud  
+- MongoDB, PostgreSQL, MySQL  
+- AWS (EC2, S3), Azure, GitHub Actions, Docker
+
+### 🧰 Tools & Workflow  
+- Git, GitHub/GitLab, Postman, VSCode  
+- CI/CD, Agile, Scrum, Trello
 
 ---
 
 ## 🏆 Achievements
-- Led end-to-end development of MERN stack applications from concept to production, ensuring responsive UI and backend performance.
-- Built and deployed scalable RESTful and GraphQL APIs using Node.js and Express, capable of handling millions of requests efficiently.
-- Implemented real-time features using WebSockets and MongoDB Change Streams, enhancing interactivity and user experience.
+
+- 🚀 Spearheaded full lifecycle development of enterprise-grade MERN applications.
+- ⚡ Built high-performance REST & GraphQL APIs serving thousands of users.
+- 🧠 Designed event-driven features using WebSockets and MongoDB Change Streams.
+- 🌍 Contributed to cloud migration and CI/CD setup for production deployment.
+- 👥 Mentored junior developers and led code reviews for scalable team growth.
+
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+  ![](https://github-readme-stats.vercel.app/api?username=MAsad961&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://nirzak-streak-stats.vercel.app/?user=MAsad961&theme=tokyonight&hide_border=false)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsad961&theme=tokyonight&hide_border=false&layout=compact)
+
+</details>
 
 ---
 
 ### 📈 GitHub Activity Graph:
-<!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 📫 Let's Connect  
 
-- **GitHub:** [github.com/MAsad961](#)  
-- **Email:** [asad.ctn1@gmail.com](#)  
+- **GitHub:** [github.com/MAsad961](https://github.com/MAsad961)  
+- **Email:** [asad.ctn1@gmail.com](mailto:asad.ctn1@gmail.com)  
+- **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/muhammad-asad-34031b20a)
 
 ---
 
-**"Innovating one line of code at a time."** ✨
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MAsad961&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MAsad961&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsad961&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=MAsad961&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> *Let’s connect and build something amazing together!*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
