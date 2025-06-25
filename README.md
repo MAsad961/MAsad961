@@ -47,3 +47,18 @@ Hello! I'm **Muhammad Asad**, a passionate **Sr. Full Stack Engineer** with 4+ y
 
 - **GitHub:** [github.com/MAsad961](#)  
 - **Email:** [asad.ctn1@gmail.com](#)  
+
+---
+
+**"Innovating one line of code at a time."** ✨
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MAsad961&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MAsad961&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsad961&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MAsad961&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
