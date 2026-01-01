@@ -8,14 +8,14 @@
 # 💻 Muhammad Asad  
 
 **🌟 Senior Full Stack Engineer**  
-**🏢 AB {Ark} Private Limited**  
+**🏢 Wanile Technologies**  
 **🌐 MERN | Python | DevOps**
 
 ---
 
 ## 🚀 About Me  
 
-I'm **Muhammad Asad**, a passionate **Senior Full Stack Engineer** with over **4 years** of hands-on experience in crafting scalable web applications and automation workflows.  
+I'm **Muhammad Asad**, a passionate **Senior Full Stack Engineer** with over **4+ years** of hands-on experience in crafting scalable web applications and automation workflows.  
 My toolbox includes the **MERN Stack**, **Python**, and strong **DevOps practices**. I specialize in delivering robust APIs, intuitive UIs, and seamless CI/CD pipelines.
 
 💡 I enjoy solving tough problems, leading development cycles, and mentoring new developers.
@@ -76,7 +76,8 @@ My toolbox includes the **MERN Stack**, **Python**, and strong **DevOps practice
 
 - **GitHub:** [github.com/MAsad961](https://github.com/MAsad961)  
 - **Email:** [asad.ctn1@gmail.com](mailto:asad.ctn1@gmail.com)  
-- **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/muhammad-asad-34031b20a)
+- **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/muhammad-asad-34031b20a)  
+- **Portfolio:** [Muhammad Asad](https://masad-dev.netlify.app)
 
 ---
 
